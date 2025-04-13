@@ -149,7 +149,7 @@ export default function HomePage() {
               { dia: "Miércoles", hora: "08:00 am - 08:00 pm" },
               { dia: "Jueves", hora: "08:00 am - 08:00 pm" },
               { dia: "Viernes", hora: "08:00 am - 08:00 pm" },
-              { dia: "Sábado", hora: "08:00 am - 04:00 pm" },
+              { dia: "Sábado", hora: "08:00 am - 02:00 pm" },
               { dia: "Domingo", hora: "Cerrado" },
             ].map(({ dia, hora }) => (
               <div
