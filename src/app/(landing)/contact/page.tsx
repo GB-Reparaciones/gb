@@ -132,8 +132,10 @@ export default function ContactPage() {
                 <h3 className="text-lg font-semibold mb-1">
                   Información de la empresa
                 </h3>
-                <p>GB Sistemas Inteligentes</p>
-                <p>RFC: GBSI850101XXX</p>
+                <p>GB Reparacion De Equipos De Computo</p>
+                <p>Representante legal: Mitzi Fabiola D. J. R.</p>
+                <p>Año de fundacion: 2016</p>
+                <p>Giro comercial: Servicios de reparación, mantenimiento y soluciones tecnológicas</p>
               </div>
 
               {/* Teléfonos de contacto */}
@@ -143,21 +145,21 @@ export default function ContactPage() {
                 </div>
                 <h3 className="text-lg font-semibold mb-1">Contáctanos</h3>
                 <p>
-                  <strong>Oficina:</strong> +52 312 123 4567
+                  <strong>Oficina:</strong> +52 312 396 6916
                 </p>
                 <p>
-                  <strong>Técnico:</strong> +52 312 765 4321
+                  <strong>Técnico:</strong> +52 312 145 7789
                 </p>
                 <div className="flex gap-4 mt-4 justify-center">
                   <Link
-                    href="https://wa.me/5213127654321"
+                    href="https://wa.me/523121457789"
                     target="_blank"
                     className="bg-green-500 hover:bg-green-600 text-white font-semibold px-4 py-2 rounded-lg transition-colors"
                   >
                     WhatsApp
                   </Link>
                   <Link
-                    href="tel:+5213121234567"
+                    href="tel:+523121457789"
                     className="bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-4 py-2 rounded-lg transition-colors"
                   >
                     Llamar
